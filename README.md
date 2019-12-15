@@ -5,3 +5,4 @@
 ### 4. Flexible image displaying gallery based on bootstrap
 ### 5. Score Keeper based on DOM using JavaScript
 ### 6. Color gussing game with "easy/hard" modes
+### 7. Todo List based on jQuery with functions of adding, deleting, crossing out and hiding input form
