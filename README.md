@@ -7,3 +7,4 @@
 ### 5. Score Keeper based on DOM using JavaScript
 ### 6. Color gussing game with "easy/hard" modes
 ### 7. Todo List based on jQuery with functions of adding, deleting, crossing out and hiding form
+### 8. Movie-searching web based on Node.js; using ejs and request; development on the goormIDE cloud platform
