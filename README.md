@@ -1,5 +1,5 @@
 # React_study
-## Detailed demo can be seen inside each folder
+## Detailed description and demo can be seen inside each folder
 ### 0. Node.js and MongoDB based Blog Web Application
 ### 1. Tic-tac-toe game based on react.js
 ### 2. Weather search web based on openweather, Node.js and express
