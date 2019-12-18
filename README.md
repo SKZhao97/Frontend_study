@@ -1,4 +1,4 @@
-# React_study
+# Front End study
 ## Detailed description and demo can be seen inside each folder
 ### 0. Node.js and MongoDB based Blog Web Application
 ### 1. Tic-tac-toe game based on react.js
