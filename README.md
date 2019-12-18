@@ -1,6 +1,6 @@
 # Front End study
 ## Detailed description and demo can be seen inside each folder
-### 0. Node.js and MongoDB based Blog Web Application
+### 0. Node.js and MongoDB based Blog Web Application following RESTful Routes
 ### 1. Tic-tac-toe game based on react.js
 ### 2. Weather search web based on openweather, Node.js and express
 ### 3. Basic Google Map API study, such as cluster, heapmap, combining
